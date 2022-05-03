@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @thedossier
-- 👀 I’m interested in Data Science and different Machine Learning models. 
+- 👀 I’m interested in Data Analysis, Data Science and different Machine Learning models. 
 
-You can view more at my web3 domain on the Polygon Network: TheDossier.x
+This is a group of projects I am working on. When I remember to update it. Face Palm.
+
+You can check out my portfolio at https://thedossier.github.io/Portfolio
+
+You can find out how to reach out to me through my portfolio page. Always open to feedback.
 
 
 <!---
