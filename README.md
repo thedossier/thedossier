@@ -25,7 +25,7 @@ I’m building a portfolio of labs, scripts, and monitoring setups that mirror r
 
 ## 📂 Featured Projects (in progress)
 - 🧩 [helpdesk-automation](https://github.com/thedossier/helpdesk-automation): Scripts for automating routine IT support tasks  
-- 🌐 [[network-monitoring-lab](https://github.com/thedossier/network-monitoring-lab): Docker-based NOC lab using Prometheus + Grafana  
+- 🌐 [network-monitoring-lab](https://github.com/thedossier/network-monitoring-lab): Docker-based NOC lab using Prometheus + Grafana  
 - 🕵️‍♀️ [soc-home-lab](https://github.com/thedossier/soc-home-lab): Wazuh-based SOC simulation with sample incident detections  
 - 📘 [it-lab-journal](https://github.com/thedossier/it-lab-journal): Documentation of labs, lessons learned, and troubleshooting notes  
 
