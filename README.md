@@ -1,12 +1,54 @@
-- 👋 Hi, I’m @thedossier
-- 👀 I’m interested in Data Analysis, Data Science and different Machine Learning models. 
+# 👋 Hey, I'm @thedossier
 
-This is a group of projects I am working on. When I remember to update it. Face Palm.
+💻 **IT & Cybersecurity Enthusiast** focused on **Help Desk**, **Network Operations (NOC)**, and **Security Operations (SOC)**.
 
-You can check out my portfolio at https://thedossier.github.io/Portfolio
+I’m building a portfolio of labs, scripts, and monitoring setups that mirror real-world IT operations — from automating help desk workflows to setting up SIEM detections and network monitoring dashboards.
 
-You can find out how to reach out to me through my portfolio page. Always open to feedback.
+---
 
+## 🧭 What I’m Working On
+- 🧰 **Help Desk Automation:** PowerShell and Python scripts for ticketing, system checks, and user management  
+- 🌐 **NOC Labs:** Network monitoring with Zabbix, Grafana, and ELK Stack  
+- 🕵️‍♂️ **SOC Simulations:** SIEM-based detections, incident response playbooks, and log analysis using Wazuh & Security Onion  
+- ☁️ **Cloud & Virtualization:** Lab environments in Azure and VirtualBox
+
+---
+
+## 🧰 Tech Toolbox
+**Languages:** PowerShell, Python, Bash  
+**Networking Tools:** Wireshark, Nmap, pfSense  
+**Security & Monitoring:** Wazuh, Splunk, ELK Stack, Security Onion, Zeek  
+**Infrastructure:** Windows Server, Active Directory, VMware, Docker  
+**Other Tools:** Zabbix, Grafana, OpenVPN  
+
+---
+
+## 📂 Featured Projects (in progress)
+- 🧩 [helpdesk-automation](#): Scripts for automating routine IT support tasks  
+- 🌐 [network-monitoring-lab](#): Docker-based NOC lab using Prometheus + Grafana  
+- 🕵️‍♀️ [soc-home-lab](#): Wazuh-based SOC simulation with sample incident detections  
+- 📘 [it-lab-journal](#): Documentation of labs, lessons learned, and troubleshooting notes  
+
+*(More coming soon — this space is under active construction. Facepalm moment avoided this time 😅)*
+
+---
+
+## 🏆 Learning Journey
+Currently leveling up in:
+- CompTIA Security+ / CySA+  
+- Windows Server Administration  
+- Network Security Monitoring  
+- Threat Detection & Response  
+
+---
+
+## 🌐 Portfolio
+Check out my portfolio and contact info:  
+👉 [https://thedossier.github.io/Portfolio](https://thedossier.github.io/Portfolio)
+
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier
 
 <!---
 thedossier/thedossier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
